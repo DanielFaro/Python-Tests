@@ -1,0 +1,10 @@
+
+{
+	"api_key" : "a272b6180bcb3537848176c59252f392",
+  	"start_date" : "2017-10-04",
+	"spreadsheet_id": "1zJK45yYLygt_wW5hHekwkVjnO3j9bPjR7eiibmbAdY4",
+	"locations": [{"city": 1, "lat": "37.8267", "long":"-122.4233"},
+		{"city": 2, "lat": "42.8402", "long":"-98.1925"}]
+		
+}		
+
